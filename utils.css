@@ -1,0 +1,24 @@
+.textCenter{
+    text-align: center;
+    color: white;
+}
+
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-center{
+    align-items: center;
+}
+.flex-column{
+    flex-direction: column;
+}
+.btn2{
+    background-color: black;
+}
+.btn3{
+    background-color: rgb(139, 0, 123);
+}
